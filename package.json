@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/kimSpiegel04/arduino-morse-code#readme",
   "dependencies": {
-    "johnny-five": "^1.4.0"
+    "johnny-five": "^1.4.0",
+    "morse": "^0.1.0"
   }
 }
