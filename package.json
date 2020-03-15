@@ -1,0 +1,22 @@
+{
+  "name": "arduino-morse-code",
+  "version": "1.0.0",
+  "description": "a node application to transmit Morse code messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kimSpiegel04/arduino-morse-code.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kimSpiegel04/arduino-morse-code/issues"
+  },
+  "homepage": "https://github.com/kimSpiegel04/arduino-morse-code#readme",
+  "dependencies": {
+    "johnny-five": "^1.4.0"
+  }
+}
